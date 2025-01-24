@@ -14,20 +14,17 @@ This project explores credit card fraud data sets using machine learning techniq
 
 ## Experiments
 ### Q1: Logistic Regression with SMOTE
-- **Goal**: Use of non-neural netwworking approach to sort the data.
-- **Highlights**:
+- **Goal**: Use of non-neural netwworking approach to sort the data:
   - Implemented SMOTE to address class imbalance.
   - Evaluated model using classification report, confusion matrix, and ROC-AUC score.
 
 ### Q2: Neural Network for Fraud Detection
-- **Goal**:Use of neural netwworking approach to sort the data.
-- **Highlights**:
+- **Goal**:Use of neural netwworking approach to sort the data:
   - Used Adam optimizer and binary cross-entropy loss.
   - Examined the effect of varying training data sizes.
 
 ### Q3: Comparison of Techniques
-- **Goal**: How does data affect our model.
-- **Highlights**:
+- **Goal**: How does data affect our model:
   - Assessed models based on performance metrics (accuracy, ROC-AUC, etc.).
   - Analyzed the benefits of class balancing using SMOTE.
 
