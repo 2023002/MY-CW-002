@@ -41,16 +41,16 @@ This project explores credit card fraud data sets using machine learning techniq
 2. **Machine Learning using Tensorflow - Aqib Saeed**:
      [https://github.com/aqibsaeed/Tensorflow-ML/tree/master)  
 
-3. **Neural Network Binary Classification - Sesank M **:  
+3. **Neural Network Binary Classification - Sesank M**:  
      [https://github.com/sesankm/neural-network-binary-classification)  
 
-4. **Imbalanced Data with SMOTE Techniques - Swastik-25   **:  
+4. **Imbalanced Data with SMOTE Techniques - Swastik-25**:  
      [https://github.com/Swastik-25/Imbalanced-Data-with-SMOTE-Techniques/tree/main?tab=readme-ov-file)
 
-5. **Neural Network for Binary Classification - AusBoone   **:  
+5. **Neural Network for Binary Classification - AusBoone**:  
      [https://github.com/AusBoone/Neural-Network-Python)
 
-6. **Chatgbt***:  
+6. **Chatgbt**:  
      [Hwlping with the optimization of code and the use of github)
 
 ## Repository Structure
