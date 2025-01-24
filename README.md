@@ -36,7 +36,6 @@ This project explores credit card fraud data sets using machine learning techniq
 ## References
 
 1. **Logistic-Regression-with-SMOTE-and-Random-Forest-with-Hyperparameter-Tuning - RPW-11**:  
-   - Kaggle - Credit Card Fraud Detection Dataset  
      [https://github.com/RPW-11/Logistic-Regression-with-SMOTE-and-Random-Forest-with-Hyperparameter-Tuning/tree/main)
 
 2. **Machine Learning using Tensorflow - Aqib Saeed**:
