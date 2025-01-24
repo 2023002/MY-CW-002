@@ -51,7 +51,7 @@ This project explores credit card fraud data sets using machine learning techniq
      [https://github.com/AusBoone/Neural-Network-Python)
 
 6. **Chatgbt**:  
-     [Hwlping with the optimization of code and the use of github)
+     [Helping with the optimization of code and the use of github)
 
 ## Repository Structure
 ```plaintext
