@@ -29,24 +29,9 @@ This project explores credit card fraud data sets using machine learning techniq
   - Analyzed the benefits of class balancing using SMOTE.
 
 ## Results
-- **Logistic Regression**: Achieved reasonable performance but struggled with imbalanced data.
-- **Neural Network**: Demonstrated higher accuracy and ROC-AUC scores when trained with sufficient data.
-- **SMOTE**: Significantly improved model performance for both approaches.
-
-## Repository Structure
-```plaintext
-.
-├── data/
-│   └── creditcard.csv         # Dataset (downloaded from Kaggle)
-├── notebooks/
-│   ├── q1_logistic_regression.ipynb  # Q1 implementation
-│   ├── q2_neural_network.ipynb       # Q2 implementation
-│   └── q3_comparison.ipynb           # Q3 analysis
-├── src/
-│   └── utils.py              # Helper functions for preprocessing and modeling
-├── README.md                 # Project documentation
-└── CITATIONS.md              # References and acknowledgments
-
+- **Logistic Regression**: Good performance but struggled with imbalanced data.
+- **Neural Network**: Shown high accuracy and ROC-AUC scores when trained with sufficient data.
+- **SMOTE**: Significantly improved model performance for both methods.
 
 ## References
 
@@ -68,3 +53,18 @@ This project explores credit card fraud data sets using machine learning techniq
 
 6. **Chatgbt***:  
      [Hwlping with the optimization of code and the use of github)
+
+## Repository Structure
+```plaintext
+.
+├── data/
+│   └── creditcard.csv         # Dataset (downloaded from Kaggle)
+├── notebooks/
+│   ├── q1_logistic_regression.ipynb  # Q1 implementation
+│   ├── q2_neural_network.ipynb       # Q2 implementation
+│   └── q3_comparison.ipynb           # Q3 analysis
+├── src/
+│   └── utils.py              # Helper functions for preprocessing and modeling
+├── README.md                 # Project documentation
+└── CITATIONS.md              # References and acknowledgments
+
