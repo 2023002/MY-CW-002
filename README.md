@@ -19,7 +19,7 @@ This project explores credit card fraud data sets using machine learning techniq
   - Evaluated model using classification report, confusion matrix, and ROC-AUC score.
 
 ### Q2: Neural Network for Fraud Detection
-- **Goal**Use of neural netwworking approach to sort the data:
+- **Goal** Use of neural netwworking approach to sort the data:
   - Used Adam optimizer and binary cross-entropy loss.
   - Examined the effect of varying training data sizes.
 
