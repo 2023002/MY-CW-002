@@ -1,4 +1,3 @@
-# MY-CW-002
 # Credit Card Fraud Detection Using Machine Learning
 
 ## Overview
